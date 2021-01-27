@@ -1,0 +1,1622 @@
+[
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 2
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 2
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 2
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 5
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 5
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 5
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 5
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 5
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 10
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 10
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 10
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 10
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 10
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 10
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 17
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 17
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 17
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 17
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 26
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 26
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 26
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 26
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 37
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 37
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 37
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 50
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 50
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 50
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 65
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 82
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 101
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 101
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 101
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 101
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 101
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 101
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 122
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 122
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 122
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 145
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 145
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 170
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 170
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 170
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 170
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 197
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 197
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 197
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 226
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 257
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 257
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 257
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 325
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 325
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 325
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 362
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 401
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 401
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 401
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 401
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 401
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 442
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 442
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 442
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 442
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 442
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 485
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 485
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 485
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 530
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 577
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 626
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 626
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "episode_id": 5,
+    "director": "Irvin Kershner",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1980-05-17",
+    "created": "2014-12-12T11:26:24.656000Z",
+    "edited": "2014-12-15T13:07:53.386000Z",
+    "character_id": 677
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 730
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 785
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 842
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 901
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 962
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1025
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1090
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 1090
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 1090
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1157
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1226
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 1226
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 1226
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1297
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 1297
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1370
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1445
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1522
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1601
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 1601
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1682
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1765
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1850
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 1850
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 1937
+  },
+  {
+    "title": "Return of the Jedi",
+    "episode_id": 6,
+    "director": "Richard Marquand",
+    "producer": "Howard G. Kazanjian, George Lucas, Rick McCallum",
+    "release_date": "1983-05-25",
+    "created": "2014-12-18T10:39:33.255000Z",
+    "edited": "2014-12-20T09:48:37.462000Z",
+    "character_id": 2026
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2117
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 2117
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2117
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2210
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2305
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2402
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2501
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2602
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 2602
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2602
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2705
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 2705
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2705
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2810
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 2810
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2810
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 2917
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 2917
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 3026
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 3026
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 3137
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 3137
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 3250
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 3365
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3365
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 3365
+  },
+  {
+    "title": "The Phantom Menace",
+    "episode_id": 1,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "1999-05-19",
+    "created": "2014-12-19T16:52:55.740000Z",
+    "edited": "2014-12-20T10:54:07.216000Z",
+    "character_id": 3482
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3482
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3601
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3722
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3845
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 3970
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 3970
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4097
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 4097
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4226
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4357
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4490
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 4490
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4625
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 4625
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4762
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 4901
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5042
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5185
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5330
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5477
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5626
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 5626
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5777
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 5930
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 6085
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6085
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6242
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6401
+  },
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "director": "George Lucas",
+    "producer": "Gary Kurtz, Rick McCallum",
+    "release_date": "1977-05-25",
+    "created": "2014-12-10T14:23:31.880000Z",
+    "edited": "2014-12-20T19:49:45.256000Z",
+    "character_id": 6562
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6562
+  },
+  {
+    "title": "Attack of the Clones",
+    "episode_id": 2,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2002-05-16",
+    "created": "2014-12-20T10:57:57.886000Z",
+    "edited": "2014-12-20T20:18:48.516000Z",
+    "character_id": 6725
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6725
+  },
+  {
+    "title": "Revenge of the Sith",
+    "episode_id": 3,
+    "director": "George Lucas",
+    "producer": "Rick McCallum",
+    "release_date": "2005-05-19",
+    "created": "2014-12-20T18:49:38.403000Z",
+    "edited": "2014-12-20T20:47:52.073000Z",
+    "character_id": 6890
+  }
+]
