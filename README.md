@@ -12,15 +12,24 @@ Youtube: https://youtu.be/Jsnay3Oqm-I
  2.1. Arquivos multi-linhas   
  2.2. Arquivos JSON aninhados   
 
-## O que veremos nas próximas lições
 ### Parte 2
-* Dataframes
-* Filtros
-* Transformações
-* Agrupamento
-* Junções
-* Uniões    
-* Funções (UDFs)
+1. DataFrames  
+2. UDF - User-defined Function   
+3. Union  
+4. Filtros  
+5. Transformações  
+5.1. Renomeando coluna  
+5.2. Alterando formato de Data  
+5.3. Selecionando colunas   
+5.4. Criando nova coluna e removendo uma existente  
+6. Join  
+6.1. Join simples e aplicação da UDF
+6.2. Join com filtro  
+7. Agrupamentos  
+7.1. Agrupamento simples  
+7.2. Agrupamento com Join  
+
+## O que veremos nas próximas lições
 ### Parte 3
 * Escrita de arquivos
 * Leitura de Parquet
